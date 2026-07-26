@@ -163,9 +163,9 @@ changing its package structure:
 
 ## 9. Repository Link
 
-`<add the GitHub URL here after pushing — see the setup instructions provided
-alongside this repository>`
+[`<add the GitHub URL here after pushing — see the setup instructions provided
+alongside this repository>`](https://github.com/IniLeobard/bit8307-week11-course-registration)
 
 ## 10. Author
 
-Leobard Ininahazwe (Iniii) — BBICT, Mount Kigali University
+Leobard Ininahazwe — BBICT, Mount Kigali University
