@@ -163,7 +163,7 @@ changing its package structure:
 
 ## 9. Repository Link
 
-(https://github.com/IniLeobard/bit8307-week11-course-registration)
+https://github.com/IniLeobard/bit8307-week11-course-registration
 
 ## 10. Author
 
